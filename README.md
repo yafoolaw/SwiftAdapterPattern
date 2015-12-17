@@ -1,0 +1,3 @@
+# SwiftAdapterPattern
+
+AdapterPattern
